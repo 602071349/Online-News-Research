@@ -1,0 +1,4 @@
+Credits:
+
+External Credits:
+4. The code for graphing bar charts and RFECV graph in project_analysis.ipynb credits to: https://github.com/ymdong/MLND-Online-News-Popularity-Prediction/blob/master/Popular%20News.ipynb
